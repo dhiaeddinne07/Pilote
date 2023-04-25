@@ -701,7 +701,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {word
 .elementor-widget-n-tabs .e-n-tabs-content .e-collapse:not(:first-child) {margin-top: var(--n-tabs-title-gap);}
 .elementor-widget-n-tabs .e-n-tabs-content .e-collapse.e-active {margin-bottom: var(--n-tabs-gap);}
 .elementor-widget-n-tabs .e-n-tabs-content>.e-con:not(.e-active) {display: none;}
-:is(.elementor .elementor-element.elementor-widget-n-tabs>.elementor-widget-container>.e-n-tabs>.e-n-tabs-heading .e-n-tab-title, .elementor .elementor-element.elementor-widget-n-tabs>.elementor-widget-container>.e-n-tabs>.e-n-tabs-content .e-n-tab-title).e-normal:hover {background-color: var(--n-tabs-title-background-color-hover);background-image: none;}
+.elementor .elementor-element.elementor-widget-n-tabs>.elementor-widget-container>.e-n-tabs>.e-n-tabs-heading .e-normal:hover {background-color: var(--n-tabs-title-background-color-hover);background-image: none;}
 :is(.elementor .elementor-element.elementor-widget-n-tabs>.elementor-widget-container>.e-n-tabs>.e-n-tabs-heading .e-n-tab-title, .elementor .elementor-element.elementor-widget-n-tabs>.elementor-widget-container>.e-n-tabs>.e-n-tabs-content .e-n-tab-title).e-active {background-color: var(--n-tabs-title-background-color-active);background-image: none;}
 @media (min-width:768px) {.e-n-tabs-mobile>.elementor-widget-container>.e-n-tabs>.e-n-tabs-content>.e-collapse {display: none;}}
 @media (max-width:767px) {.e-n-tabs-mobile>.elementor-widget-container>.e-n-tabs>.e-n-tabs-heading {display: none;}}

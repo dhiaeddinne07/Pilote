@@ -2,30 +2,33 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://dhiaeddinne07.github.io/Pilote/</loc>
-		<lastmod>2023-04-05T15:59:42+00:00</lastmod>
+		<lastmod>2023-04-25T19:44:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/Sans-titre-145.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-01-at-09.57.23.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/WhatsApp-Image-2023-03-31-at-14.07.12.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/20190519-796538.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/post1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/Bandeau_AIRnest_Fichier-source16-1024x478-1.png</image:loc>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/post1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/S0-location-automobile-une-offre-a-1-eur-la-journee-114481.jpg</image:loc>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/post1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/03/logo-ecp-final-3-Recupere.png</image:loc>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/post1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/WhatsApp-Image-2023-03-21-at-20.07.43.jpeg</image:loc>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/image_processing20200517-26088-19pn3bw.gif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/logo-fond-noir-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://dhiaeddinne07.github.io/Pilote/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-13-at-10.01.00.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
